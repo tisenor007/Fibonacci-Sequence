@@ -5,3 +5,10 @@ C:\Users\W0455178\source\repos\Fibonacci Sequence\Fibonacci Sequence\obj\Debug\F
 C:\Users\W0455178\source\repos\Fibonacci Sequence\Fibonacci Sequence\obj\Debug\Fibonacci Sequence.csproj.CoreCompileInputs.cache
 C:\Users\W0455178\source\repos\Fibonacci Sequence\Fibonacci Sequence\obj\Debug\Fibonacci Sequence.exe
 C:\Users\W0455178\source\repos\Fibonacci Sequence\Fibonacci Sequence\obj\Debug\Fibonacci Sequence.pdb
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\Fibonacci Sequence\Fibonacci Sequence\bin\Debug\Fibonacci Sequence.exe.config
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\Fibonacci Sequence\Fibonacci Sequence\bin\Debug\Fibonacci Sequence.exe
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\Fibonacci Sequence\Fibonacci Sequence\bin\Debug\Fibonacci Sequence.pdb
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\Fibonacci Sequence\Fibonacci Sequence\obj\Debug\Fibonacci Sequence.csproj.AssemblyReference.cache
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\Fibonacci Sequence\Fibonacci Sequence\obj\Debug\Fibonacci Sequence.csproj.CoreCompileInputs.cache
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\Fibonacci Sequence\Fibonacci Sequence\obj\Debug\Fibonacci Sequence.exe
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\Fibonacci Sequence\Fibonacci Sequence\obj\Debug\Fibonacci Sequence.pdb
